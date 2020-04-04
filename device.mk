@@ -110,5 +110,5 @@ PRODUCT_SYSTEM_VERITY_PARTITION := /dev/block/platform/soc/7824900.sdhci/by-name
 $(call inherit-product, build/target/product/verity.mk)
 
 # Camera
-PRODUCT_PACKAGES += \
-    Gcam
+#PRODUCT_PACKAGES += \
+#    Gcam
