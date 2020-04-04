@@ -14,4 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_tissot.mk
+    $(LOCAL_DIR)/komodo_tissot.mk
+
+COMMON_LUNCH_CHOICES := \
+    komodo_tissot-user \
+    komodo_tissot-userdebug \
+    komodo_tissot-eng
