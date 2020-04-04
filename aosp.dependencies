@@ -1,19 +1,19 @@
 [
  {
    "remote": "github",
-   "repository": "PixelExperience-Devices/device_xiaomi_msm8953-common",
+   "repository": "Komodo-OS-Devices/device_xiaomi_msm8953-common",
    "target_path": "device/xiaomi/msm8953-common",
    "branch": "ten"
  },
  {
    "remote": "github",
-   "repository": "PixelExperience-Devices/vendor_xiaomi",
+   "repository": "Komodo-OS-Devices/vendor_xiaomi_tissot",
    "target_path": "vendor/xiaomi",
    "branch": "ten"
  },
  {
    "remote": "github",
-   "repository": "PixelExperience-Devices/kernel_xiaomi_tissot",
+   "repository": "Komodo-OS-Devices/kernel_xiaomi_tissot",
    "target_path": "kernel/xiaomi/msm8953",
    "branch": "ten"
   }
